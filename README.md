@@ -1,2 +1,2 @@
-# ml_projects
-Projects completed with a machine learning focus 
+# Projects
+Projects completed, mainly with a machine learning focus 

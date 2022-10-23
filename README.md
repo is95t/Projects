@@ -14,3 +14,7 @@ This notebook contains two models trained on the MNIST digit recognition dataset
 `simple_moving_averages`
 
 This notebook shows a simple trading strategy using moving averages. This strategy is not expected to be better than a Buy and Hold strategy, but this was used as a project to revise moving averages before projects involving moving averages as features in models. Although my current research involves time series, we don’t typically consider moving averages, so I created this simple project to revised them from earlier in my education. In this project stock data is imported from Yahoo Finance and we look at Manchester United PLC (MANU) data from 2017 onwards (we will also look at Google (GOOG) too). Using this data, we take 2 moving averages on the closing price of the previous days to then build a simple strategy.
+
+### Stock Prediction 
+
+After revision of SMA, I am currently working on a stock prediction project and comparison of ML models for this task. 

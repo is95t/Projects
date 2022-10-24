@@ -18,3 +18,6 @@ This notebook shows a simple trading strategy using moving averages. This strate
 ### Stock Prediction 
 
 After revision of SMA, I am currently working on a stock prediction project and comparison of ML models for this task. 
+
+### Gaussian Process Regression (GPR) Model 
+The code/model for my PhD project, using GPR to fit thermodynamic properties, will be uploaded after the upcoming publication. This will either be uploaded here or to a separate repository.
